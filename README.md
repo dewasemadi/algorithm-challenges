@@ -1,6 +1,6 @@
 # Algorithm Challenges
 
-A TypeScript project for solving various coding problems and algorithm challenges. Currently includes an **Anagram Checker** as a sample module. The project is designed to be extensible, future problems can be added as separate modules.
+A TypeScript project for solving various coding problems and algorithm challenges. Currently includes an **Anagram Grouper** as a sample module. The project is designed to be extensible, future problems can be added as separate modules.
 
 ## Project Structure
 
